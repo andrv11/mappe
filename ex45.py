@@ -1,6 +1,6 @@
 from sys import exit
 from random import randint
-from opg45nr2 import Scene, Engine, Death
+from o45 import Scene, Engine, Dead
                 
 class Roma(Scene): #første scene som blir utspilt
 
